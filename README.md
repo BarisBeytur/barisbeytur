@@ -32,38 +32,18 @@
 
 ###
 
-I am Barış Beytur. Bulent Ecevit University Computer Engineering 3.
-                 I am a grader. Actively developing myself on .NET Web Technologies
-                 and I'm working.
-                 I started my targeted Computer Engineering department in 2020. always disciplined
-                 And I tried to be a responsible person. In line with this principle, I always do well at my school.
+I am a 4th year student of Bulent Ecevit University Computer Engineering Department. I always trying to learn new technologies about software development and I always developing myself.
+
+I have worked on web technologies mostly like `ASP.NET MVC` on back-end and `HTML, CSS, JavaScript` on front-end. I'm still learning `ReactJS`.
+                 I started my targeted Computer Engineering department in 2020. I always disciplined
+                 and tried to be a responsible person. In line with this principle, I always do well at my school.
                  Besides making an academic career, I aimed to constantly improve myself. School's software related clubs such as GDSC, GDG
                  I joined. In addition to this, I thought that I would not be able to learn the technical parts of the job sufficiently at school.
                  I decided to develop individually in the software field. As a result of this awareness, I feel myself extra from the outside.
-                 I started to develop with new information and technologies that I learned from sources. In addition, cyber security
-                 I also received training on
+                 I started to develop with new information and technologies that I learned from sources.
 
-  In the summer of 2020, at the software company <b>VBT Yazılım</b> located in Istanbul Ataşehir <i>
-                     "Software development
-                     intern"
-                 I was assigned as </i>.
-                 In 2023, at <b>Duş Teknoloji</b>, a corporate company and software company of Doğuş Group <i>
-                     ".NET Software Development
-                     intern"
-                 I got accepted as </i>.
-
-                 Currently, I am actively developing myself on the .NET MVC framework and creating new projects.
-
-
----------------------------------------------------------------- ---------------------------------------------------------------- -----------
-I am proficient in HTML, CSS, JavaScript, C#, .NET MVC, MSSQL, Git and Github technologies. Currently, I am actively developing myself on the .NET MVC framework and producing full-stack web projects.
-
-As a top-notch __Computer Engineering__ student in my third year, I bring a wealth of expertise to the table. My proficiency in `Next.JS`, `TailwindCSS`, and `.NET` programming languages is second to none, and I'm always looking for opportunities to hone my skills even further. My passion for web development is evident in every project I undertake, and I'm committed to delivering top-notch results every time. When I'm not hard at work crafting beautiful websites and web applications, you'll find me immersing myself in the latest cutting-edge technologies. Whether it's exploring the latest developments.
-
-<br><br>🌱 I’m currently learning .Net Core<br>💬 Ask me about Next.js, TailwindCSS and .NET<br>🕸️ Look at my Website [Bugra Okumus](https://www.bugraokumus.com.tr "Bugra's Homepage")
-
-###
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=owmrvf7qgfzkui82islwqyevo&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=owmrvf7qgfzkui82islwqyevo&redirect=true)
+                 
+              <br><br>🌱 I’m currently developing myself on the .NET MVC framework and creating new projects.🕸️ Look at my Website [Baris Beytur](https://barisbeytur.epizy.com/)
 
 <be clear="both">
 
@@ -77,9 +57,7 @@ As a top-notch __Computer Engineering__ student in my third year, I bring a weal
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
