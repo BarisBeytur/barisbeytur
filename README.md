@@ -1,23 +1,14 @@
-<h1 align="center">Hi 👋, I'm Bugra Okumus</h1>
+<h1 align="center">Hi 👋, I'm Baris Beytur</h1>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bgraokmush/" target="_blank">
+  <a href="https://www.linkedin.com/in/barisbeytur/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/bgraokmush" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/bgraokmush" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-<a href="https://medium.com/bgraokmush" target="_blank">
+<a href="https://medium.com/@beyturbaris" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/16468270/bgraokmush" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
 </div>
 
 ###
