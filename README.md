@@ -79,11 +79,13 @@ I have worked on web technologies mostly like `ASP.NET MVC` on back-end and `HTM
 
 ###
 
+
+ <div align="center">
 <br clear="both">
 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BarisBeytur&theme=dark)](https://git.io/streak-stats)
-
+</div>
 
 ###
