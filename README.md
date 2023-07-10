@@ -14,7 +14,7 @@
 ###
 
 <div align="center" object-fit"cover">
-  <img height="300" src="![c8673ad4c46ade00cf3bd0049db62b16](https://github.com/BarisBeytur/barisbeytur/assets/77030797/5b4f1179-340a-404d-bed5-aa75231bee02)"  />
+  <img height="300" src="file:///C:/Users/BarisBeytur/Desktop/Dosyalar%C4%B1m/c8673ad4c46ade00cf3bd0049db62b16.jpg"  />
 </div>
 
 
