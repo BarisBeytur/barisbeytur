@@ -32,6 +32,32 @@
 
 ###
 
+I am Barış Beytur. Bulent Ecevit University Computer Engineering 3.
+                 I am a grader. Actively developing myself on .NET Web Technologies
+                 and I'm working.
+                 I started my targeted Computer Engineering department in 2020. always disciplined
+                 And I tried to be a responsible person. In line with this principle, I always do well at my school.
+                 Besides making an academic career, I aimed to constantly improve myself. School's software related clubs such as GDSC, GDG
+                 I joined. In addition to this, I thought that I would not be able to learn the technical parts of the job sufficiently at school.
+                 I decided to develop individually in the software field. As a result of this awareness, I feel myself extra from the outside.
+                 I started to develop with new information and technologies that I learned from sources. In addition, cyber security
+                 I also received training on
+
+  In the summer of 2020, at the software company <b>VBT Yazılım</b> located in Istanbul Ataşehir <i>
+                     "Software development
+                     intern"
+                 I was assigned as </i>.
+                 In 2023, at <b>Duş Teknoloji</b>, a corporate company and software company of Doğuş Group <i>
+                     ".NET Software Development
+                     intern"
+                 I got accepted as </i>.
+
+                 Currently, I am actively developing myself on the .NET MVC framework and creating new projects.
+
+
+---------------------------------------------------------------- ---------------------------------------------------------------- -----------
+I am proficient in HTML, CSS, JavaScript, C#, .NET MVC, MSSQL, Git and Github technologies. Currently, I am actively developing myself on the .NET MVC framework and producing full-stack web projects.
+
 As a top-notch __Computer Engineering__ student in my third year, I bring a wealth of expertise to the table. My proficiency in `Next.JS`, `TailwindCSS`, and `.NET` programming languages is second to none, and I'm always looking for opportunities to hone my skills even further. My passion for web development is evident in every project I undertake, and I'm committed to delivering top-notch results every time. When I'm not hard at work crafting beautiful websites and web applications, you'll find me immersing myself in the latest cutting-edge technologies. Whether it's exploring the latest developments.
 
 <br><br>🌱 I’m currently learning .Net Core<br>💬 Ask me about Next.js, TailwindCSS and .NET<br>🕸️ Look at my Website [Bugra Okumus](https://www.bugraokumus.com.tr "Bugra's Homepage")
