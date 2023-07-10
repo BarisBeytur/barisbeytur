@@ -43,7 +43,8 @@ I have worked on web technologies mostly like `ASP.NET MVC` on back-end and `HTM
                  I started to develop with new information and technologies that I learned from sources.
 
                  
-              <br><br>🌱 I’m currently developing myself on the .NET MVC framework and creating new projects.🕸️ Look at my Website [Baris Beytur](https://barisbeytur.epizy.com/)
+                 
+<br><br>🌱 I’m currently developing myself on the .NET MVC framework and creating new projects.🕸️ Look at my Website [Baris Beytur](https://barisbeytur.epizy.com/)
 
 <be clear="both">
 
