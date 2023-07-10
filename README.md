@@ -14,8 +14,9 @@
 ###
 
 <div align="center" object-fit"cover">
-  <img height="300" src="https://pbs.twimg.com/profile_banners/4892136671/1659351252/1500x500"  />
+  <img height="300" src="![c8673ad4c46ade00cf3bd0049db62b16](https://github.com/BarisBeytur/barisbeytur/assets/77030797/5b4f1179-340a-404d-bed5-aa75231bee02)"  />
 </div>
+
 
 ###
 
