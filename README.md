@@ -85,4 +85,9 @@ I have worked on web technologies mostly like `ASP.NET MVC` on back-end and `HTM
   <img src="https://streak-stats.demolab.com?user=bgraokmush&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BarisBeytur&theme=dark)](https://git.io/streak-stats)
+</div>
+
+
 ###
