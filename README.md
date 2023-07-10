@@ -19,9 +19,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bgraokmush.bgraokmush&"  />
-</div>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBarisBeytur"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBarisBeytur&labelColor=%23697689&countColor=%232ccce4&style=flat&labelStyle=lower" /></a>
 
 ###
 
