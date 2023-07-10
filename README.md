@@ -14,7 +14,7 @@
 ###
 
 <div align="center" object-fit"cover">
-  <img height="300" src="file:///C:/Users/BarisBeytur/Desktop/Dosyalar%C4%B1m/c8673ad4c46ade00cf3bd0049db62b16.jpg"  />
+  <img height="300" src="https://i.hizliresim.com/kdlpyj4.jpg"  />
 </div>
 
 
