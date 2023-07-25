@@ -14,15 +14,6 @@
 </div>
 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/barisbeytur/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-<a href="https://medium.com/@beyturbaris" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-</div>
-
 ###
 
 <div align="center" object-fit"cover">
