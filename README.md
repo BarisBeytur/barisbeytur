@@ -3,15 +3,15 @@
 ###
 
 
-<a href="https://twitter.com/salihcantekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salihcantekin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salih-cantekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salih-cantekin" height="30" width="40" /></a>
-<a href="https://instagram.com/salih_sc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salih_sc" height="30" width="40" /></a>
-<a href="https://medium.com/@salihcantekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salihcantekin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techbuddytr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techbuddytr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/salihcantekin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="salihcantekin" height="30" width="40" /></a>
-<a href="https://discord.gg/E5DvR5FkWf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="E5DvR5FkWf" height="30" width="40" /></a>
-<a href="mailto:salihcantekin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/></a>
-  
+
+<div align="center">
+<a href="https://www.linkedin.com/in/barisbeytur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baris-beytur" height="30" width="40" /></a>
+<a href="https://www.instagram.com/barisbeytur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baris-beytur" height="30" width="40" /></a>
+<a href="https://medium.com/@beyturbaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@baris-beytur" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/techbuddytr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="baris-beytur" height="30" width="40" /></a>
+<a href="https://discord.gg/B5Zy3YAB7U" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="B5Zy3YAB7U" height="30" width="40" /></a>
+<a href="mailto:beyturbaris@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</div>
 
 
 <div align="center">
