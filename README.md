@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/barisbeytur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baris-beytur" height="30" width="40" /></a>
 <a href="https://www.instagram.com/barisbeytur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baris-beytur" height="30" width="40" /></a>
 <a href="https://medium.com/@beyturbaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@baris-beytur" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techbuddytr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="baris-beytur" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCwcm2gQqERpZ-BOuDPaby5w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="baris-beytur" height="30" width="40" /></a>
 <a href="https://discord.gg/B5Zy3YAB7U" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="B5Zy3YAB7U" height="30" width="40" /></a>
 <a href="mailto:beyturbaris@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
