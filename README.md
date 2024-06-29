@@ -35,7 +35,10 @@
 
 ###
 
-I am a 4th year student of Bulent Ecevit University Computer Engineering Department. I always trying to learn new technologies about software development and I always developing myself.
+I graduated from the Faculty of Engineering and Computer Engineering Department at Bulent Ecevit University as the second student.
+
+I am a highly motivated, disciplined and responsible person who likes to research, learn and share new things. I always trying to learn new technologies about software development.
+
 
 I have worked on web technologies mostly like `ASP.NET MVC` on back-end and `HTML, CSS, JavaScript` on front-end. I'm still learning `ReactJS`.
                  I started my targeted Computer Engineering department in 2020. I always disciplined
