@@ -40,8 +40,8 @@ I graduated from the Faculty of Engineering and Computer Engineering Department 
 I am a highly motivated, disciplined and responsible person who likes to research, learn and share new things. I always trying to learn new technologies about software development.
 
 
-I have worked on web technologies mostly like `ASP.NET MVC` on back-end and `HTML, CSS, JavaScript` on front-end. I'm still learning `ReactJS`.
-                 I started my targeted Computer Engineering department in 2020. I always disciplined
+I have worked on web technologies mostly like `.NET` technologies on back-end and `HTML, CSS, JavaScript, Bootstrap` on front-end.
+                 I started  Computer Engineering department in 2020. I always disciplined
                  and tried to be a responsible person. In line with this principle, I always do well at my school.
                  Besides making an academic career, I aimed to constantly improve myself. School's software related clubs such as GDSC, GDG
                  I joined. In addition to this, I thought that I would not be able to learn the technical parts of the job sufficiently at school.
@@ -50,7 +50,7 @@ I have worked on web technologies mostly like `ASP.NET MVC` on back-end and `HTM
 
                  
                  
-<br>🌱 I’m currently developing myself on the `.NET MVC framework` and creating new projects.🕸️ Look at my Website [Baris Beytur](https://barisbeytur.epizy.com/)
+<br>🌱 I’m currently developing myself on the `.NET` technologies and creating new projects.🕸️ Look at my Website [Baris Beytur](https://barisbeytur.epizy.com/)
 
 <be clear="both">
 <br/>
