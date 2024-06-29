@@ -40,7 +40,7 @@ I graduated from the Faculty of Engineering and Computer Engineering Department 
 I am a highly motivated, disciplined and responsible person who likes to research, learn and share new things. I always trying to learn new technologies about software development.
 
 
-I have worked on web technologies mostly like `.NET` technologies on back-end and `HTML, CSS, JavaScript, Bootstrap` on front-end.
+I have worked on web technologies mostly like `.NET` on back-end and `HTML, CSS, JavaScript, Bootstrap` on front-end.
                  I started  Computer Engineering department in 2020. I always disciplined
                  and tried to be a responsible person. In line with this principle, I always do well at my school.
                  Besides making an academic career, I aimed to constantly improve myself. School's software related clubs such as GDSC, GDG
