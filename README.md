@@ -17,7 +17,7 @@
 ###
 
 <div align="center" object-fit"cover">
-  <img height="300" src="https://i.hizliresim.com/kdlpyj4.jpg"  />
+  <img height="300" src="https://i.hizliresim.com/kdlpyj4.jpg](https://img.freepik.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_169016-51607.jpg"  />
 </div>
 
 
